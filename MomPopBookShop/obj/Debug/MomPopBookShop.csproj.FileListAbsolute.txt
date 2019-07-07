@@ -1,0 +1,16 @@
+C:\Users\skeenda\source\repos\MomPopBookShop\MomPopBookShop\bin\Debug\MomPopBookShop.exe.config
+C:\Users\skeenda\source\repos\MomPopBookShop\MomPopBookShop\bin\Debug\MomPopBookShop.exe
+C:\Users\skeenda\source\repos\MomPopBookShop\MomPopBookShop\bin\Debug\MomPopBookShop.pdb
+C:\Users\skeenda\source\repos\MomPopBookShop\MomPopBookShop\obj\Debug\View\InventoryIndex.g.cs
+C:\Users\skeenda\source\repos\MomPopBookShop\MomPopBookShop\obj\Debug\App.g.cs
+C:\Users\skeenda\source\repos\MomPopBookShop\MomPopBookShop\obj\Debug\MomPopBookShop_MarkupCompile.cache
+C:\Users\skeenda\source\repos\MomPopBookShop\MomPopBookShop\obj\Debug\MomPopBookShop_MarkupCompile.lref
+C:\Users\skeenda\source\repos\MomPopBookShop\MomPopBookShop\obj\Debug\View\InventoryIndex.baml
+C:\Users\skeenda\source\repos\MomPopBookShop\MomPopBookShop\obj\Debug\MomPopBookShop.g.resources
+C:\Users\skeenda\source\repos\MomPopBookShop\MomPopBookShop\obj\Debug\MomPopBookShop.Properties.Resources.resources
+C:\Users\skeenda\source\repos\MomPopBookShop\MomPopBookShop\obj\Debug\MomPopBookShop.csproj.GenerateResource.cache
+C:\Users\skeenda\source\repos\MomPopBookShop\MomPopBookShop\obj\Debug\MomPopBookShop.csproj.CoreCompileInputs.cache
+C:\Users\skeenda\source\repos\MomPopBookShop\MomPopBookShop\obj\Debug\MomPopBookShop.exe
+C:\Users\skeenda\source\repos\MomPopBookShop\MomPopBookShop\obj\Debug\MomPopBookShop.pdb
+C:\Users\skeenda\source\repos\MomPopBookShop\MomPopBookShop\obj\Debug\MomPopBookShop.csprojAssemblyReference.cache
+C:\Users\skeenda\source\repos\MomPopBookShop\MomPopBookShop\obj\Debug\GeneratedInternalTypeHelper.g.cs
